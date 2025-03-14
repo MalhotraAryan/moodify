@@ -1,0 +1,33 @@
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+h5 {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
+
+.imgBox {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.buttonColor {
+  /* background: #3e5c76; */
+  background: #FFB300;
+  border: 0;
+  color: #323232;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: medium;
+}
